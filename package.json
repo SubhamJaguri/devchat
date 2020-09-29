@@ -1,0 +1,23 @@
+{
+  "name": "devchat",
+  "version": "1.0.0",
+  "description": "This is a online chat portal for developers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SubhamJaguri/devchat.git"
+  },
+  "author": "Subham Jaguri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SubhamJaguri/devchat/issues"
+  },
+  "homepage": "https://github.com/SubhamJaguri/devchat#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
